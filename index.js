@@ -6,6 +6,10 @@ const Login = () => {
   return;
 };
 
+const Register = () => {
+  return;
+};
+
 function comando_git() {
   return <h1>Hello World!</h1>;
 }
